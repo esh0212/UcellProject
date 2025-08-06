@@ -1,0 +1,2 @@
+*100#;Balansni tekshirish
+*101#;Raqamni aniqlash

@@ -1,0 +1,4 @@
+Ergashev;ergashev020@gmail.com;1202;USER;null
+Shukurullo;ergashev010@gmail.com;1202;USER;2025-08-06T15:53:48.063257700
+Ergashev Shukurulla;ergashev030@gmail.com;1202;USER;2025-08-06T18:22:21.715006
+Abilov Sardor;abilov01@gmail.com;0000;MANAGER;2025-08-06T19:21:33.076332900
